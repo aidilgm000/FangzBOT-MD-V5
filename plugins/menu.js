@@ -1,4 +1,4 @@
-// MADE BY BOCHILGAMING
+// MADE BY DILZPX
 
 import { promises } from 'fs'
 import { join } from 'path'
